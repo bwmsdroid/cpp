@@ -1,3 +1,2 @@
 # cpp
-Um pouco de meus códigos de c++
 There are 10 kinds of people in this world, those who understand binary, and those who don't
